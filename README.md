@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-13 06:47 AM
+**Last Updated**: 2021-04-13 07:18 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available DANVERS GLOUCESTER HANSON HINGHAM LYNN MARBLEHEAD METHUEN PEABODY PLYMOUTH SEEKONK SOMERVILLE WESTBOROUGH       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available GLOUCESTER HANSON HINGHAM MARBLEHEAD NORWELL PEABODY PLYMOUTH WESTBOROUGH       |
 <!--end: status pages-->
 
 ## Site Information
