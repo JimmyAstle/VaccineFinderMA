@@ -18,45 +18,162 @@ Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" 
 This checks the following locations approximatly every 15 minutes using GitHub Actions.
 
 * The following CVS locations:
-  * Medford
-  * Danvers
-  * Gloucester
-  * Lynn
-  * Medford
-  * Reading
-  * Saugus
-  * Somerville
-  * Stoneham
-  * Winchester
-  * Woburn
-  * Marblehead
-  * Marlborough
-  * Framingham
-  * Westborough
-  * Revere
-  * Arlington
-  * Malden
-  * Peabody
-  * Worcester
-  * Lowell
-  * Dracut
-  * Billerica
-  * Wilmington
-  * Methuen
-  * Lawrence
-  * Attleboro
-  * North Attleboro
-  * Seekonk
-  * Wrentham
-  * Arlington
-  * Watertown
-  * Waltham
-  * Hanover
-  * Plymouth
-  * Hanson
-  * Abington
-  * Norwell
-  * Hingham
+  *  abington
+  *  acton
+  *  agawam
+  *  allston
+  *  amherst
+  *  arlington
+  *  ashland
+  *  athol
+  *  attleboro
+  *  bedford
+  *  belchertown
+  *  bellingham
+  *  belmont
+  *  beverly
+  *  billerica
+  *  boston
+  *  bourne
+  *  braintree
+  *  brighton
+  *  brockton
+  *  brookline
+  *  burlington
+  *  cambridge
+  *  canton
+  *  carver
+  *  chatham
+  *  chelsea
+  *  chestnut hill
+  *  chicopee
+  *  cohasset
+  *  concord
+  *  danvers
+  *  dedham
+  *  dorchester
+  *  dracut
+  *  east boston
+  *  east bridgewater
+  *  east falmouth
+  *  everett
+  *  fall river
+  *  falmouth
+  *  fitchburg
+  *  foxborough
+  *  framingham
+  *  georgetown
+  *  gloucester
+  *  granby
+  *  great barrington
+  *  greenfield
+  *  hadley
+  *  hanover
+  *  hanson
+  *  harwich
+  *  harwichport
+  *  haverhill
+  *  hingham
+  *  holbrook
+  *  holliston
+  *  holyoke
+  *  hopkinton
+  *  hudson
+  *  hyannis
+  *  hyde park
+  *  ipswich
+  *  kingston
+  *  lanesborough
+  *  lawrence
+  *  leominster
+  *  lexington
+  *  longmeadow
+  *  lowell
+  *  lunenburg
+  *  lynn
+  *  malden
+  *  marblehead
+  *  marlborough
+  *  mashpee
+  *  mattapan
+  *  maynard
+  *  medfield
+  *  medford
+  *  methuen
+  *  middleborough
+  *  middleton
+  *  milford
+  *  millbury
+  *  millis
+  *  natick
+  *  needham
+  *  new bedford
+  *  newburyport
+  *  newton
+  *  north andover
+  *  north attleborough
+  *  north billerica
+  *  north dartmouth
+  *  north easton
+  *  north grafton
+  *  northampton
+  *  norwell
+  *  orleans
+  *  oxford
+  *  palmer
+  *  peabody
+  *  plainville
+  *  plymouth
+  *  provincetown
+  *  quincy
+  *  randolph
+  *  reading
+  *  revere
+  *  roslindale
+  *  rowley
+  *  salem
+  *  salisbury
+  *  sandwich
+  *  saugus
+  *  seekonk
+  *  sharon
+  *  somerville
+  *  south easton
+  *  south hamilton
+  *  south weymouth
+  *  south yarmouth
+  *  southbridge
+  *  southwick
+  *  springfield
+  *  stoneham
+  *  stoughton
+  *  sturbridge
+  *  swansea
+  *  taunton
+  *  waltham
+  *  wareham
+  *  watertown
+  *  wayland
+  *  webster
+  *  wellesley
+  *  west bridgewater
+  *  west newton
+  *  west springfield
+  *  westborough
+  *  westfield
+  *  westford
+  *  westport
+  *  westwood
+  *  weymouth
+  *  wilbraham
+  *  wilmington
+  *  winchendon
+  *  winchester
+  *  winthrop
+  *  woburn
+  *  wollaston
+  *  worcester
+  *  wrentham
 
 
 
