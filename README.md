@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-15 02:54 AM
+**Last Updated**: 2021-04-15 03:23 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available BELLINGHAM DORCHESTER DRACUT FALL RIVER FITCHBURG HANOVER HAVERHILL MARLBOROUGH MATTAPAN NEWTON REVERE SOUTHBRIDGE TAUNTON WAYLAND WEST SPRINGFIELD WESTFIELD WESTPORT WILMINGTON       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available FALL RIVER NEW BEDFORD PALMER SOUTHBRIDGE       |
 <!--end: status pages-->
 
 ## Site Information
