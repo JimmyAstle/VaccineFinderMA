@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-18 07:50 AM
+**Last Updated**: 2021-04-18 08:30 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BROCKTON CHELSEA EAST BOSTON FALL RIVER GREENFIELD HOLYOKE HYANNIS LOWELL LYNN MALDEN METHUEN NEW BEDFORD NORTH EASTON PALMER RANDOLPH SEEKONK SOUTH YARMOUTH SPRINGFIELD TAUNTON WALTHAM WESTPORT       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available EAST BOSTON FALL RIVER GREENFIELD HOLYOKE NEW BEDFORD PALMER SEEKONK SOUTH YARMOUTH SPRINGFIELD TAUNTON WESTPORT       |
 <!--end: status pages-->
 
 ## Site Information
