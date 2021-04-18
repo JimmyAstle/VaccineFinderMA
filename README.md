@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-18 03:52 AM
+**Last Updated**: 2021-04-18 04:24 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BEVERLY BROCKTON EAST BOSTON FALL RIVER GREENFIELD HANOVER HAVERHILL HOLBROOK HOLYOKE HYANNIS LYNN METHUEN NEW BEDFORD NORTH EASTON PALMER RANDOLPH SALEM SEEKONK SOUTH YARMOUTH SPRINGFIELD TAUNTON WEST BRIDGEWATER WEST SPRINGFIELD WESTFIELD WESTPORT WORCESTER       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BEVERLY BOSTON BRAINTREE BROCKTON CAMBRIDGE CHELSEA DANVERS DEDHAM DORCHESTER EAST BOSTON EAST FALMOUTH FALL RIVER FITCHBURG FRAMINGHAM GREENFIELD HAVERHILL HOLBROOK HOLYOKE HYANNIS HYDE PARK IPSWICH LOWELL LYNN MALDEN MATTAPAN MAYNARD MEDFIELD MEDFORD METHUEN MILFORD NEW BEDFORD NORTH EASTON NORTH GRAFTON PALMER RANDOLPH REVERE SALEM SEEKONK SOUTH YARMOUTH SOUTHBRIDGE SPRINGFIELD STURBRIDGE TAUNTON WALTHAM WATERTOWN WEST BRIDGEWATER WEST SPRINGFIELD WESTFIELD WESTPORT WEYMOUTH WORCESTER       |
 <!--end: status pages-->
 
 ## Site Information
