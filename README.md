@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-19 06:22 AM
+**Last Updated**: 2021-04-19 06:46 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BELLINGHAM BEVERLY BOSTON BRAINTREE BROCKTON CAMBRIDGE CHELSEA DEDHAM DRACUT EAST BOSTON EAST FALMOUTH FALL RIVER GREENFIELD HAVERHILL HOLBROOK HOLYOKE HUDSON HYANNIS HYDE PARK IPSWICH LOWELL LYNN MALDEN MATTAPAN MAYNARD MEDFIELD MEDFORD METHUEN MILFORD NEW BEDFORD NORTH EASTON NORTH GRAFTON PALMER PEABODY RANDOLPH SEEKONK SOUTH YARMOUTH SOUTHBRIDGE SPRINGFIELD STURBRIDGE TAUNTON WALTHAM WATERTOWN WAYLAND WEST BRIDGEWATER WESTPORT WORCESTER       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :no_entry: Unavailable    |
 <!--end: status pages-->
 
 ## Site Information
