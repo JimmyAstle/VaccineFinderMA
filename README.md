@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-20 07:18 AM
+**Last Updated**: 2021-04-20 07:42 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM ATTLEBORO BELCHERTOWN BEVERLY BOURNE BRAINTREE BROCKTON CHICOPEE DORCHESTER FALL RIVER FOXBOROUGH GLOUCESTER GRANBY GREAT BARRINGTON HOLYOKE HYANNIS KINGSTON LANESBOROUGH LONGMEADOW MASHPEE NEW BEDFORD NEWBURYPORT NORTH ATTLEBOROUGH NORTH DARTMOUTH NORTHAMPTON NORWELL ORLEANS PALMER PEABODY PLAINVILLE SANDWICH SAUGUS SEEKONK SOUTH EASTON SOUTH YARMOUTH SOUTHWICK SPRINGFIELD SWANSEA TAUNTON WAREHAM WEST SPRINGFIELD WESTPORT WEYMOUTH       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BELCHERTOWN BOURNE BRIGHTON CHICOPEE FALL RIVER GRANBY GREAT BARRINGTON HADLEY HOLYOKE HYANNIS LONGMEADOW MASHPEE NEW BEDFORD NORTH DARTMOUTH NORTHAMPTON NORWELL ORLEANS PALMER SANDWICH SEEKONK SOUTH YARMOUTH SOUTHWICK SPRINGFIELD SWANSEA TAUNTON WAREHAM WEST SPRINGFIELD WESTPORT       |
 <!--end: status pages-->
 
 ## Site Information
