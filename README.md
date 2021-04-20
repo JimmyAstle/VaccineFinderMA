@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-20 09:13 AM
+**Last Updated**: 2021-04-20 09:41 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ARLINGTON BILLERICA BOURNE FALL RIVER LONGMEADOW NEW BEDFORD NORTH DARTMOUTH SANDWICH SHARON WEST SPRINGFIELD       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ATTLEBORO BRAINTREE CHICOPEE FALL RIVER NEW BEDFORD       |
 <!--end: status pages-->
 
 ## Site Information
