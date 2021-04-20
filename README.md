@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-20 06:22 AM
+**Last Updated**: 2021-04-20 06:45 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM ASHLAND BELLINGHAM BEVERLY BOSTON BRAINTREE BROCKTON CAMBRIDGE CHELSEA CHICOPEE DEDHAM DORCHESTER EAST BOSTON EAST FALMOUTH FALL RIVER GLOUCESTER GREENFIELD HAVERHILL HOLBROOK HOLYOKE HUDSON HYANNIS HYDE PARK IPSWICH KINGSTON LOWELL LYNN MALDEN MATTAPAN MAYNARD MEDFIELD MEDFORD METHUEN MILFORD MILLBURY NEW BEDFORD NEWBURYPORT NEWTON NORTH ATTLEBOROUGH NORTH EASTON NORTH GRAFTON NORTHAMPTON PALMER PEABODY RANDOLPH SALEM SAUGUS SEEKONK SOMERVILLE SOUTH YARMOUTH SPRINGFIELD STURBRIDGE TAUNTON WALTHAM WATERTOWN WEST BRIDGEWATER WEST SPRINGFIELD WESTPORT WEYMOUTH WORCESTER       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM AMHERST ATTLEBORO BELCHERTOWN BEVERLY BOSTON BOURNE BRAINTREE BROCKTON CHICOPEE DORCHESTER EAST BRIDGEWATER FALL RIVER FOXBOROUGH GLOUCESTER GRANBY GREAT BARRINGTON GREENFIELD HADLEY HANSON HOLYOKE HYANNIS KINGSTON LANESBOROUGH LONGMEADOW LYNN MASHPEE MILLBURY NEW BEDFORD NEWBURYPORT NEWTON NORTH ATTLEBOROUGH NORTH DARTMOUTH NORTH EASTON NORTHAMPTON NORWELL ORLEANS PALMER PEABODY REVERE SANDWICH SAUGUS SEEKONK SOMERVILLE SOUTH EASTON SOUTH YARMOUTH SOUTHWICK SPRINGFIELD STOUGHTON SWANSEA TAUNTON WAREHAM WEST SPRINGFIELD WESTPORT WESTWOOD WEYMOUTH       |
 <!--end: status pages-->
 
 ## Site Information
