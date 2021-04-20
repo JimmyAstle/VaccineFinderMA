@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-20 06:45 AM
+**Last Updated**: 2021-04-20 07:18 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM AMHERST ATTLEBORO BELCHERTOWN BEVERLY BOSTON BOURNE BRAINTREE BROCKTON CHICOPEE DORCHESTER EAST BRIDGEWATER FALL RIVER FOXBOROUGH GLOUCESTER GRANBY GREAT BARRINGTON GREENFIELD HADLEY HANSON HOLYOKE HYANNIS KINGSTON LANESBOROUGH LONGMEADOW LYNN MASHPEE MILLBURY NEW BEDFORD NEWBURYPORT NEWTON NORTH ATTLEBOROUGH NORTH DARTMOUTH NORTH EASTON NORTHAMPTON NORWELL ORLEANS PALMER PEABODY REVERE SANDWICH SAUGUS SEEKONK SOMERVILLE SOUTH EASTON SOUTH YARMOUTH SOUTHWICK SPRINGFIELD STOUGHTON SWANSEA TAUNTON WAREHAM WEST SPRINGFIELD WESTPORT WESTWOOD WEYMOUTH       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM ATTLEBORO BELCHERTOWN BEVERLY BOURNE BRAINTREE BROCKTON CHICOPEE DORCHESTER FALL RIVER FOXBOROUGH GLOUCESTER GRANBY GREAT BARRINGTON HOLYOKE HYANNIS KINGSTON LANESBOROUGH LONGMEADOW MASHPEE NEW BEDFORD NEWBURYPORT NORTH ATTLEBOROUGH NORTH DARTMOUTH NORTHAMPTON NORWELL ORLEANS PALMER PEABODY PLAINVILLE SANDWICH SAUGUS SEEKONK SOUTH EASTON SOUTH YARMOUTH SOUTHWICK SPRINGFIELD SWANSEA TAUNTON WAREHAM WEST SPRINGFIELD WESTPORT WEYMOUTH       |
 <!--end: status pages-->
 
 ## Site Information
