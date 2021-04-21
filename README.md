@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-21 03:45 AM
+**Last Updated**: 2021-04-21 03:53 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BELCHERTOWN BOURNE BROCKTON CHELSEA CHICOPEE EAST BOSTON FALL RIVER GEORGETOWN GLOUCESTER GREENFIELD HAVERHILL HOLYOKE HYANNIS LONGMEADOW LYNN MALDEN MASHPEE METHUEN NEW BEDFORD NORTH EASTON ORLEANS PALMER RANDOLPH SALEM SANDWICH SEEKONK SOUTH EASTON SOUTH WEYMOUTH SOUTH YARMOUTH SOUTHWICK SPRINGFIELD SWANSEA TAUNTON WAREHAM WEST BRIDGEWATER WEST SPRINGFIELD WESTPORT       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM ARLINGTON BROCKTON CHELSEA COHASSET EAST BOSTON FALL RIVER GLOUCESTER GREENFIELD HOLYOKE HYANNIS LONGMEADOW LYNN MALDEN METHUEN NEW BEDFORD NORTH EASTON ORLEANS PALMER RANDOLPH SALEM SANDWICH SEEKONK SOUTH EASTON SOUTH YARMOUTH SOUTHWICK SPRINGFIELD SWANSEA TAUNTON WAREHAM WEST BRIDGEWATER WESTPORT WINCHESTER       |
 <!--end: status pages-->
 
 ## Site Information
