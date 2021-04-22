@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-22 02:57 AM
+**Last Updated**: 2021-04-22 03:28 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available WESTPORT       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BOURNE BROCKTON BURLINGTON CHELSEA CONCORD DEDHAM DRACUT EAST BOSTON EAST FALMOUTH FALL RIVER FOXBOROUGH GEORGETOWN GLOUCESTER GRANBY GREAT BARRINGTON GREENFIELD HAVERHILL HOLBROOK HOLYOKE HYANNIS HYDE PARK IPSWICH LANESBOROUGH LONGMEADOW LOWELL LYNN MALDEN MASHPEE MEDFIELD METHUEN NEW BEDFORD NORTH ANDOVER NORTH ATTLEBOROUGH NORTH DARTMOUTH NORTH EASTON NORTH GRAFTON ORLEANS PALMER PEABODY PLAINVILLE RANDOLPH REVERE ROWLEY SALEM SEEKONK SOUTH EASTON SOUTH YARMOUTH SOUTHWICK SPRINGFIELD STOUGHTON STURBRIDGE SWANSEA TAUNTON WAREHAM WEST BRIDGEWATER WESTFORD WESTPORT WESTWOOD WORCESTER       |
 <!--end: status pages-->
 
 ## Site Information
