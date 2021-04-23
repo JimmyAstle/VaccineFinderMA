@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-23 10:44 AM
+**Last Updated**: 2021-04-23 10:53 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BOSTON BROCKTON EAST FALMOUTH FALL RIVER FITCHBURG GREAT BARRINGTON GREENFIELD HAVERHILL HOLBROOK HOLYOKE HYANNIS HYDE PARK LONGMEADOW LOWELL LYNN MATTAPAN METHUEN NEW BEDFORD NORTH DARTMOUTH NORTH EASTON PALMER PLYMOUTH RANDOLPH ROSLINDALE SEEKONK SOUTH YARMOUTH SOUTHBRIDGE SPRINGFIELD TAUNTON WEST BRIDGEWATER WEST SPRINGFIELD WESTFIELD WESTPORT       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BOSTON BROCKTON FALL RIVER FITCHBURG GREAT BARRINGTON GREENFIELD HAVERHILL HOLYOKE HYANNIS HYDE PARK LONGMEADOW LOWELL LYNN MATTAPAN METHUEN NEW BEDFORD NORTH EASTON PALMER PLYMOUTH RANDOLPH ROSLINDALE SEEKONK SOUTH YARMOUTH SOUTHBRIDGE SPRINGFIELD SWANSEA TAUNTON WEST BRIDGEWATER WEST SPRINGFIELD WESTFIELD WESTPORT       |
 <!--end: status pages-->
 
 ## Site Information
