@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-25 12:59 AM
+**Last Updated**: 2021-04-25 01:31 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BOSTON BOURNE BROCKTON CHELSEA EAST BOSTON FALL RIVER GREAT BARRINGTON GREENFIELD HAVERHILL HOLYOKE HYANNIS HYDE PARK LANESBOROUGH LONGMEADOW LYNN MALDEN MASHPEE MATTAPAN METHUEN NEW BEDFORD NORTH DARTMOUTH NORTH EASTON ORLEANS PALMER RANDOLPH ROSLINDALE SANDWICH SEEKONK SOUTH YARMOUTH SOUTHBRIDGE SPRINGFIELD SWANSEA TAUNTON WAREHAM WEST BRIDGEWATER WEST SPRINGFIELD WESTFIELD WESTPORT       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BOSTON BOURNE BROCKTON BROOKLINE CHELSEA EAST BOSTON FALL RIVER GREAT BARRINGTON GREENFIELD HAVERHILL HOLYOKE HYANNIS HYDE PARK LANESBOROUGH LONGMEADOW LYNN MALDEN MARLBOROUGH MASHPEE MATTAPAN METHUEN NEEDHAM NEW BEDFORD NORTH DARTMOUTH NORTH EASTON ORLEANS PALMER RANDOLPH ROSLINDALE ROWLEY SANDWICH SEEKONK SOUTH EASTON SOUTH YARMOUTH SPRINGFIELD SWANSEA TAUNTON WAREHAM WEST BRIDGEWATER WEST SPRINGFIELD WESTFIELD WESTPORT       |
 <!--end: status pages-->
 
 ## Site Information
