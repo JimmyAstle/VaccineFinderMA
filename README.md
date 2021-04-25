@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-25 06:27 PM
+**Last Updated**: 2021-04-25 06:53 PM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BELCHERTOWN BOSTON BOURNE BROCKTON CHELSEA CHICOPEE DANVERS DEDHAM DORCHESTER EAST BOSTON EAST BRIDGEWATER FALL RIVER FITCHBURG FOXBOROUGH GRANBY GREAT BARRINGTON GREENFIELD HADLEY HAVERHILL HOLBROOK HOLYOKE HYANNIS HYDE PARK LANESBOROUGH LONGMEADOW LOWELL LYNN MALDEN MASHPEE MATTAPAN METHUEN NEW BEDFORD NORTH ATTLEBOROUGH NORTH DARTMOUTH NORTH EASTON NORTH GRAFTON NORTHAMPTON ORLEANS PALMER PEABODY PLAINVILLE RANDOLPH REVERE ROSLINDALE SALEM SANDWICH SEEKONK SHARON SOUTH EASTON SOUTH YARMOUTH SOUTHBRIDGE SPRINGFIELD SWANSEA TAUNTON WAREHAM WEST BRIDGEWATER WEST SPRINGFIELD WESTFIELD WESTPORT       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BELCHERTOWN BOSTON BROCKTON CHELSEA CHICOPEE DEDHAM DORCHESTER EAST BOSTON EAST FALMOUTH FALL RIVER FITCHBURG GREAT BARRINGTON GREENFIELD HADLEY HAVERHILL HOLBROOK HOLYOKE HYANNIS HYDE PARK LANESBOROUGH LONGMEADOW LOWELL LYNN MALDEN MASHPEE MATTAPAN METHUEN NEW BEDFORD NORTH DARTMOUTH NORTH EASTON NORTHAMPTON ORLEANS PALMER RANDOLPH REVERE ROSLINDALE SALEM SANDWICH SAUGUS SEEKONK SHARON SOUTH EASTON SOUTH YARMOUTH SOUTHBRIDGE SPRINGFIELD STOUGHTON SWANSEA TAUNTON WAREHAM WEST BRIDGEWATER WEST SPRINGFIELD WESTFIELD WESTPORT       |
 <!--end: status pages-->
 
 ## Site Information
