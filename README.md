@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-25 02:27 AM
+**Last Updated**: 2021-04-25 02:57 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BELCHERTOWN BOSTON BOURNE BRAINTREE BROCKTON CHELSEA EAST BOSTON FALL RIVER GREAT BARRINGTON GREENFIELD HAVERHILL HOLYOKE HYANNIS HYDE PARK LANESBOROUGH LONGMEADOW LYNN MALDEN MASHPEE MATTAPAN MEDFIELD METHUEN NEEDHAM NEW BEDFORD NORTH ATTLEBOROUGH NORTH DARTMOUTH NORTH EASTON ORLEANS PALMER RANDOLPH ROSLINDALE SANDWICH SEEKONK SOUTH EASTON SOUTH YARMOUTH SOUTHBRIDGE SPRINGFIELD SWANSEA TAUNTON WAREHAM WEST BRIDGEWATER WEST SPRINGFIELD WESTFIELD WESTPORT       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BELCHERTOWN BOSTON BOURNE BRAINTREE BROCKTON BROOKLINE CHELSEA EAST BOSTON FALL RIVER GREAT BARRINGTON GREENFIELD HAVERHILL HOLYOKE HYANNIS HYDE PARK LANESBOROUGH LONGMEADOW LOWELL LYNN MALDEN MARLBOROUGH MASHPEE MATTAPAN MEDFIELD METHUEN NEW BEDFORD NORTH ATTLEBOROUGH NORTH DARTMOUTH NORTH EASTON ORLEANS PALMER RANDOLPH ROSLINDALE ROWLEY SANDWICH SEEKONK SOUTH EASTON SOUTH YARMOUTH SOUTHBRIDGE SPRINGFIELD SWANSEA TAUNTON WAREHAM WEST BRIDGEWATER WEST SPRINGFIELD WESTFIELD WESTPORT WINCHESTER       |
 <!--end: status pages-->
 
 ## Site Information
