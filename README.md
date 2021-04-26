@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-26 05:20 PM
+**Last Updated**: 2021-04-26 05:45 PM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BELCHERTOWN BOSTON BROCKTON CHELSEA DEDHAM DORCHESTER EAST BOSTON FALL RIVER GEORGETOWN GREAT BARRINGTON GREENFIELD HADLEY HARWICH HAVERHILL HOLBROOK HOLYOKE HYANNIS HYDE PARK KINGSTON LONGMEADOW LYNN MALDEN MARBLEHEAD MASHPEE MATTAPAN METHUEN NEW BEDFORD NORTH DARTMOUTH NORTH EASTON NORTHAMPTON ORLEANS PALMER PEABODY PLYMOUTH PROVINCETOWN RANDOLPH REVERE ROSLINDALE SALEM SALISBURY SANDWICH SEEKONK SOUTH EASTON SOUTH HAMILTON SOUTH YARMOUTH SPRINGFIELD SWANSEA TAUNTON WAREHAM WEST BRIDGEWATER WEST SPRINGFIELD WESTFIELD WESTPORT WILBRAHAM WINCHESTER WINTHROP       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BELCHERTOWN BOSTON BOURNE BROCKTON CHELSEA DORCHESTER EAST BOSTON FALL RIVER FRAMINGHAM GEORGETOWN GREAT BARRINGTON GREENFIELD HARWICH HAVERHILL HOLBROOK HOLYOKE HYANNIS HYDE PARK LONGMEADOW LOWELL LYNN MALDEN MARBLEHEAD MASHPEE MATTAPAN METHUEN MIDDLEBOROUGH MIDDLETON NEW BEDFORD NORTH DARTMOUTH NORTH EASTON ORLEANS PALMER PEABODY PLYMOUTH PROVINCETOWN RANDOLPH REVERE ROSLINDALE ROWLEY SALEM SALISBURY SANDWICH SEEKONK SOUTH YARMOUTH SPRINGFIELD SWANSEA TAUNTON WAREHAM WEST BRIDGEWATER WEST SPRINGFIELD WESTFIELD WESTPORT WILBRAHAM       |
 <!--end: status pages-->
 
 ## Site Information
