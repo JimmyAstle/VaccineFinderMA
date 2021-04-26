@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-26 12:59 AM
+**Last Updated**: 2021-04-26 01:32 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BOSTON BOURNE BRAINTREE BROCKTON CHELSEA CHICOPEE DEDHAM DORCHESTER EAST BOSTON FALL RIVER GRANBY GREAT BARRINGTON GREENFIELD HAVERHILL HOLBROOK HOLYOKE HUDSON HYANNIS HYDE PARK LANESBOROUGH LONGMEADOW LOWELL LYNN MALDEN MASHPEE MATTAPAN METHUEN NEW BEDFORD NORTH DARTMOUTH NORTH EASTON NORTHAMPTON ORLEANS PALMER PEABODY RANDOLPH REVERE ROSLINDALE ROWLEY SALEM SANDWICH SAUGUS SEEKONK SOUTH EASTON SOUTH YARMOUTH SPRINGFIELD SWANSEA TAUNTON WAREHAM WEST BRIDGEWATER WEST SPRINGFIELD WESTFIELD WESTPORT WEYMOUTH       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BOSTON BOURNE BROCKTON CHELSEA CHESTNUT HILL CHICOPEE DEDHAM DORCHESTER EAST BOSTON FALL RIVER FRAMINGHAM GREAT BARRINGTON GREENFIELD HAVERHILL HOLBROOK HOLYOKE HYANNIS HYDE PARK LANESBOROUGH LONGMEADOW LOWELL LYNN MALDEN MASHPEE MATTAPAN METHUEN NEEDHAM NEW BEDFORD NORTH DARTMOUTH NORTH EASTON NORTH GRAFTON NORTHAMPTON ORLEANS PALMER PEABODY RANDOLPH REVERE ROSLINDALE ROWLEY SALEM SANDWICH SAUGUS SEEKONK SHARON SOUTH EASTON SOUTH YARMOUTH SOUTHBRIDGE SPRINGFIELD STONEHAM SWANSEA TAUNTON WAREHAM WEST BRIDGEWATER WEST SPRINGFIELD WESTFIELD WESTPORT WINCHESTER       |
 <!--end: status pages-->
 
 ## Site Information
