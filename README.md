@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-26 05:55 PM
+**Last Updated**: 2021-04-26 06:27 PM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BELCHERTOWN BOSTON BOURNE BROCKTON CHELSEA DORCHESTER EAST BOSTON FALL RIVER FRAMINGHAM GEORGETOWN GREAT BARRINGTON GREENFIELD HARWICH HAVERHILL HOLBROOK HOLYOKE HYANNIS HYDE PARK LONGMEADOW LOWELL LYNN MALDEN MARBLEHEAD MASHPEE MATTAPAN METHUEN MIDDLEBOROUGH MIDDLETON NEW BEDFORD NORTH DARTMOUTH NORTH EASTON ORLEANS PALMER PEABODY PLYMOUTH PROVINCETOWN RANDOLPH REVERE ROSLINDALE ROWLEY SALEM SALISBURY SANDWICH SEEKONK SOUTH YARMOUTH SPRINGFIELD SWANSEA TAUNTON WAREHAM WEST BRIDGEWATER WEST SPRINGFIELD WESTFIELD WESTPORT WILBRAHAM       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ABINGTON AGAWAM BELCHERTOWN BOSTON BROCKTON CHELSEA DORCHESTER EAST BOSTON EAST FALMOUTH FALL RIVER GLOUCESTER GREAT BARRINGTON GREENFIELD HARWICH HAVERHILL HOLBROOK HOLYOKE HYANNIS HYDE PARK LONGMEADOW LYNN MALDEN MARBLEHEAD MASHPEE MATTAPAN METHUEN NEW BEDFORD NORTH DARTMOUTH NORTH EASTON ORLEANS PALMER PROVINCETOWN RANDOLPH REVERE ROSLINDALE SALEM SALISBURY SANDWICH SAUGUS SEEKONK SOUTH EASTON SOUTH YARMOUTH SOUTHWICK SPRINGFIELD STOUGHTON SWANSEA TAUNTON WAREHAM WEST BRIDGEWATER WEST SPRINGFIELD WESTFIELD WESTPORT WESTWOOD WILBRAHAM WINTHROP       |
 <!--end: status pages-->
 
 ## Site Information
