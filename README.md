@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-28 10:52 AM
+**Last Updated**: 2021-04-28 11:24 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM AMHERST BOSTON BOURNE BROCKTON CHELSEA CHESTNUT HILL DANVERS DORCHESTER EAST BOSTON EAST BRIDGEWATER EAST FALMOUTH FALL RIVER FITCHBURG FOXBOROUGH GEORGETOWN GLOUCESTER GRANBY GREAT BARRINGTON GREENFIELD HANOVER HAVERHILL HOLYOKE HYANNIS HYDE PARK LONGMEADOW LOWELL LYNN MALDEN MASHPEE MATTAPAN METHUEN NEEDHAM NEW BEDFORD NEWTON NORTH DARTMOUTH NORTH EASTON NORTHAMPTON ORLEANS PALMER PEABODY PLYMOUTH PROVINCETOWN RANDOLPH REVERE ROSLINDALE SALEM SANDWICH SAUGUS SEEKONK SHARON SOUTH EASTON SOUTH YARMOUTH SOUTHBRIDGE SOUTHWICK SPRINGFIELD SWANSEA TAUNTON WAREHAM WELLESLEY WEST SPRINGFIELD WESTFIELD WESTPORT       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BELCHERTOWN BOSTON BOURNE BROCKTON CHELSEA DANVERS DORCHESTER EAST BOSTON FALL RIVER FITCHBURG GRANBY GREAT BARRINGTON GREENFIELD HANOVER HAVERHILL HOLYOKE HYANNIS HYDE PARK LONGMEADOW LYNN MALDEN MASHPEE MATTAPAN METHUEN NEW BEDFORD NEWTON NORTH ATTLEBOROUGH NORTH DARTMOUTH NORTH EASTON ORLEANS PALMER PEABODY PLYMOUTH PROVINCETOWN RANDOLPH REVERE ROSLINDALE SALEM SANDWICH SAUGUS SEEKONK SOUTH EASTON SOUTH YARMOUTH SOUTHBRIDGE SOUTHWICK SPRINGFIELD SWANSEA WAREHAM WEST SPRINGFIELD WESTFIELD WESTPORT WRENTHAM       |
 <!--end: status pages-->
 
 ## Site Information
