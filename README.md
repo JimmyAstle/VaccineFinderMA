@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-29 11:22 AM
+**Last Updated**: 2021-04-29 11:50 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM FALL RIVER GLOUCESTER HAVERHILL HYANNIS LONGMEADOW MARBLEHEAD MASHPEE NEW BEDFORD NORTH DARTMOUTH ORLEANS PROVINCETOWN REVERE SALEM SALISBURY SWANSEA WESTBOROUGH WESTPORT       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM BRAINTREE FALL RIVER HAVERHILL HYANNIS NEW BEDFORD NORTH DARTMOUTH ORLEANS PROVINCETOWN WESTPORT       |
 <!--end: status pages-->
 
 ## Site Information
