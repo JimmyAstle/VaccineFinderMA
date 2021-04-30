@@ -20,9 +20,6 @@ def main():
     cvs = get_cvs_data()
     print(cvs)
 
-    #too many appointments
-    too_large_to_tweet = 'Too many locations available to fit in a tweet. Please vist the CVS website to book an appointment. https://www.cvs.com/immunizations/covid-19-vaccine'   
-
     # book urls
     cvs_url = 'https://www.cvs.com/immunizations/covid-19-vaccine'
 
@@ -130,6 +127,9 @@ def get_cvs_data():
         return "Unavailable"
 
 def tweet_it(message):
+    #too many appointments
+    too_large_to_tweet = 'Too many locations available to fit in a tweet. Please vist the CVS website to book an appointment. https://www.cvs.com/immunizations/covid-19-vaccine'   
+    
     CONSUMER_KEY = os.environ.get('TWITTER_CONSUMER_KEY')
     CONSUMER_SECRET = os.environ.get('TWITTER_CONSUMER_SECRET')
     ACCESS_KEY = os.environ.get('TWITTER_ACCESS_KEY')
