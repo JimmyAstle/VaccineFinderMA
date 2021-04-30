@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-30 06:50 PM
+**Last Updated**: 2021-04-30 07:20 PM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available BELMONT BOSTON BROCKTON CHELSEA CHESTNUT HILL COHASSET DANVERS DORCHESTER EAST BOSTON EAST FALMOUTH FALL RIVER FITCHBURG GREENFIELD HANOVER HARWICH HOLYOKE HYANNIS LEOMINSTER LONGMEADOW LOWELL LYNN MALDEN MASHPEE MATTAPAN METHUEN MILFORD MILLBURY NEW BEDFORD NEWTON NORTH DARTMOUTH NORTH EASTON PALMER PEABODY PLYMOUTH PROVINCETOWN RANDOLPH REVERE ROSLINDALE SALEM SEEKONK SOUTH YARMOUTH SOUTHBRIDGE SOUTHWICK SPRINGFIELD SWANSEA WATERTOWN WAYLAND WELLESLEY WEST SPRINGFIELD WESTPORT WESTWOOD WORCESTER       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available BEDFORD BELCHERTOWN BELMONT BOSTON BOURNE BROCKTON CHELSEA DANVERS DORCHESTER EAST BOSTON EAST FALMOUTH FALL RIVER FITCHBURG GRANBY GREENFIELD HANOVER HOLYOKE HYANNIS IPSWICH KINGSTON LEOMINSTER LONGMEADOW LOWELL LYNN MALDEN MASHPEE MATTAPAN METHUEN MILFORD MILLBURY NEW BEDFORD NEWTON NORTH DARTMOUTH NORTH EASTON NORTHAMPTON PALMER PEABODY PLYMOUTH RANDOLPH READING REVERE ROSLINDALE SALEM SEEKONK SOMERVILLE SOUTH YARMOUTH SOUTHBRIDGE SPRINGFIELD SWANSEA WATERTOWN WAYLAND WELLESLEY WEST SPRINGFIELD WESTPORT WORCESTER       |
 <!--end: status pages-->
 
 ## Site Information
