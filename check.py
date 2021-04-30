@@ -125,7 +125,7 @@ def get_cvs_data():
     print(len(message))
     if len(message) >= 279 :
         return "Too many locations available to fit in a tweet. Please vist the CVS website to book an appointment. https://www.cvs.com/immunizations/covid-19-vaccine"
-    elif message != "" len(message) >= 279:
+    elif message != "" :
         return "Available " + message
     else:
         return "Unavailable"
