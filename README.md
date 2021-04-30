@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-30 03:39 PM
+**Last Updated**: 2021-04-30 03:48 PM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available BELMONT BOSTON BOURNE BRAINTREE BRIGHTON BROCKTON CHELSEA CHESTNUT HILL DANVERS DORCHESTER EAST BOSTON EAST FALMOUTH FALL RIVER FITCHBURG GREENFIELD HANOVER HOLYOKE HYANNIS HYDE PARK IPSWICH KINGSTON LEOMINSTER LONGMEADOW LOWELL LYNN MALDEN MARLBOROUGH MASHPEE MATTAPAN METHUEN MILFORD NEW BEDFORD NEWTON NORTH ATTLEBOROUGH NORTH DARTMOUTH NORTH EASTON ORLEANS PALMER PEABODY PLYMOUTH RANDOLPH REVERE ROSLINDALE SALEM SAUGUS SEEKONK SHARON SOUTH YARMOUTH SOUTHBRIDGE SPRINGFIELD SWANSEA WATERTOWN WAYLAND WEST SPRINGFIELD WESTPORT WESTWOOD WORCESTER       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available BELCHERTOWN BELMONT BOSTON BROCKTON BROOKLINE CHELSEA CHESTNUT HILL DANVERS DORCHESTER EAST BOSTON EAST FALMOUTH FALL RIVER FITCHBURG GRANBY GREENFIELD HANOVER HOLYOKE HUDSON HYANNIS LEOMINSTER LONGMEADOW LOWELL LYNN MALDEN MARLBOROUGH MASHPEE MATTAPAN METHUEN MILFORD MILLBURY MILLIS NEEDHAM NEW BEDFORD NEWTON NORTH DARTMOUTH NORTH EASTON NORTHAMPTON PALMER PEABODY PLYMOUTH RANDOLPH REVERE ROSLINDALE SALEM SAUGUS SEEKONK SOMERVILLE SOUTH YARMOUTH SOUTHBRIDGE SOUTHWICK SPRINGFIELD STURBRIDGE SWANSEA WATERTOWN WAYLAND WELLESLEY WEST SPRINGFIELD WESTPORT WESTWOOD WINCHESTER WORCESTER       |
 <!--end: status pages-->
 
 ## Site Information
