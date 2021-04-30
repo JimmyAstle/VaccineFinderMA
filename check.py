@@ -20,7 +20,8 @@ def main():
     cvs = get_cvs_data()
     print(cvs)
 
-   
+    #too many appointments
+    too_large_to_tweet = 'Too many locations available to fit in a tweet. Please vist the CVS website to book an appointment. https://www.cvs.com/immunizations/covid-19-vaccine'   
 
     # book urls
     cvs_url = 'https://www.cvs.com/immunizations/covid-19-vaccine'
@@ -123,9 +124,7 @@ def get_cvs_data():
         if city in cfg.config["cvs_sites"] and status != 'Fully Booked':
             message = message + city + ' '
     print(len(message))
-    if len(message) >= 279 :
-        return "Too many locations available to fit in a tweet. Please vist the CVS website to book an appointment. https://www.cvs.com/immunizations/covid-19-vaccine"
-    elif message != "" :
+    if message != "" :
         return "Available " + message
     else:
         return "Unavailable"
@@ -145,8 +144,12 @@ def tweet_it(message):
     ##Try to get around twitter duplicate messaging
     tz = timezone('America/New_York')
     message = message + " [" + str(datetime.now(tz).strftime('%m-%d-%Y %I:%M %p')) + "]"
-    print("Tweeting message: " + message)
-    api.update_status(message)
+    if len(message) >= 279 :
+        print(too_large_to_tweet)
+        api.update_status(too_large_to_tweet)
+    else:
+        print("Tweeting message: " + message)
+        api.update_status(message)
 
 
 main()
