@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-30 11:23 AM
+**Last Updated**: 2021-04-30 11:50 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available BROOKLINE CHESTNUT HILL DORCHESTER EAST FALMOUTH FALL RIVER GLOUCESTER HYANNIS LONGMEADOW MEDFIELD NEW BEDFORD NORTH DARTMOUTH ORLEANS PEABODY PROVINCETOWN READING SALEM SANDWICH SEEKONK SOMERVILLE STONEHAM SWANSEA WEST SPRINGFIELD WESTPORT       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ARLINGTON BOURNE CHESTNUT HILL DORCHESTER EAST FALMOUTH FALL RIVER FOXBOROUGH GLOUCESTER HYANNIS MASHPEE MILFORD NEW BEDFORD NEWBURYPORT NORTH DARTMOUTH ORLEANS PROVINCETOWN QUINCY SEEKONK SWANSEA WAREHAM WESTPORT WRENTHAM       |
 <!--end: status pages-->
 
 ## Site Information
