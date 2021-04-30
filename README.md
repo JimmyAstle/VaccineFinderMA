@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-04-30 05:19 PM
+**Last Updated**: 2021-04-30 05:45 PM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ALLSTON BELMONT BOSTON BOURNE BRIGHTON BROCKTON CHELSEA CHESTNUT HILL DANVERS DORCHESTER EAST BOSTON EAST FALMOUTH FALL RIVER FITCHBURG GRANBY GREENFIELD HANOVER HARWICH HOLYOKE HYANNIS KINGSTON LEOMINSTER LEXINGTON LONGMEADOW LOWELL LYNN MALDEN MASHPEE MATTAPAN METHUEN MILFORD NEEDHAM NEW BEDFORD NEWTON NORTH DARTMOUTH NORTH EASTON NORTHAMPTON ORLEANS PALMER PEABODY PLYMOUTH RANDOLPH REVERE ROSLINDALE SALEM SANDWICH SEEKONK SOUTH YARMOUTH SOUTHBRIDGE SOUTHWICK SPRINGFIELD STURBRIDGE SWANSEA WATERTOWN WAYLAND WEST SPRINGFIELD WESTFORD WESTPORT WORCESTER WRENTHAM       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ARLINGTON BELMONT BOSTON BROCKTON BURLINGTON CHELSEA CHESTNUT HILL DANVERS DORCHESTER EAST BOSTON EAST FALMOUTH FALL RIVER FITCHBURG GREENFIELD HANOVER HARWICH HOLYOKE HUDSON HYANNIS IPSWICH LEOMINSTER LONGMEADOW LOWELL LYNN MALDEN MATTAPAN METHUEN MILFORD NEW BEDFORD NEWTON NORTH ATTLEBOROUGH NORTH DARTMOUTH NORTH EASTON NORTHAMPTON PALMER PEABODY PLYMOUTH PROVINCETOWN RANDOLPH REVERE ROSLINDALE SALEM SANDWICH SEEKONK SOUTH YARMOUTH SOUTHBRIDGE SPRINGFIELD STURBRIDGE SWANSEA WATERTOWN WAYLAND WEST SPRINGFIELD WESTPORT WORCESTER       |
 <!--end: status pages-->
 
 ## Site Information
