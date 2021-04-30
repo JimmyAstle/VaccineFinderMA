@@ -123,10 +123,10 @@ def get_cvs_data():
         if city in cfg.config["cvs_sites"] and status != 'Fully Booked':
             message = message + city + ' '
     print(len(message))
-    if message != "":
+    if len(message) >= 279 :
+        return "Too many locations available to fit in a tweet. Please vist the CVS website to book an appointment. https://www.cvs.com/immunizations/covid-19-vaccine"
+    elif message != "" len(message) >= 279:
         return "Available " + message
-    elif len(message) >= 279:
-            return "Too many locations available to fit in a tweet. Please vist the CVS website to book an appointment. https://www.cvs.com/immunizations/covid-19-vaccine"
     else:
         return "Unavailable"
 
