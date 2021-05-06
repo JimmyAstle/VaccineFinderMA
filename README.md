@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-05-05 10:49 PM
+**Last Updated**: 2021-05-05 11:25 PM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :no_entry: Unavailable    |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ABINGTON ACTON AGAWAM ALLSTON AMHERST ARLINGTON ASHLAND ATTLEBORO BEDFORD BELCHERTOWN BELLINGHAM BELMONT BEVERLY BOSTON BOURNE BRIGHTON BROCKTON BROOKLINE CAMBRIDGE CHATHAM CHELSEA CHESTNUT HILL CONCORD DANVERS DEDHAM DORCHESTER DRACUT EAST BOSTON EAST BRIDGEWATER EAST FALMOUTH EVERETT FALL RIVER FITCHBURG FOXBOROUGH FRAMINGHAM GEORGETOWN GLOUCESTER GRANBY GREENFIELD HADLEY HANOVER HAVERHILL HINGHAM HOLBROOK HOLLISTON HOLYOKE HYANNIS IPSWICH KINGSTON LANESBOROUGH LEOMINSTER LEXINGTON LONGMEADOW LOWELL LYNN MALDEN MARBLEHEAD MARLBOROUGH MASHPEE MATTAPAN MEDFORD METHUEN MIDDLEBOROUGH MILFORD MILLIS NEEDHAM NEW BEDFORD NEWBURYPORT NEWTON NORTH ANDOVER NORTH DARTMOUTH NORTH EASTON NORTHAMPTON NORWELL ORLEANS PALMER PEABODY PLAINVILLE PLYMOUTH PROVINCETOWN RANDOLPH REVERE ROSLINDALE ROWLEY SALEM SANDWICH SAUGUS SEEKONK SHARON SOMERVILLE SOUTH EASTON SOUTH WEYMOUTH SOUTH YARMOUTH SOUTHBRIDGE SOUTHWICK SPRINGFIELD STONEHAM SWANSEA TAUNTON WAREHAM WATERTOWN WAYLAND WELLESLEY WEST NEWTON WEST SPRINGFIELD WESTBOROUGH WESTFIELD WESTFORD WESTPORT WESTWOOD WILBRAHAM WINCHESTER WINTHROP WOBURN WORCESTER WRENTHAM       |
 <!--end: status pages-->
 
 ## Site Information
