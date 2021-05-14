@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-05-13 10:33 PM
+**Last Updated**: 2021-05-13 11:16 PM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :no_entry: Unavailable    |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ALLSTON AMHERST ARLINGTON ATTLEBORO BEDFORD BELCHERTOWN BELMONT BEVERLY BILLERICA BOSTON BOURNE BRAINTREE BRIGHTON BROCKTON BROOKLINE CAMBRIDGE CARVER CHESTNUT HILL CHICOPEE COHASSET DANVERS DEDHAM DORCHESTER EVERETT FALL RIVER FOXBOROUGH GEORGETOWN GLOUCESTER HADLEY HANSON HOLBROOK HOLYOKE HYANNIS LANESBOROUGH LEOMINSTER LEXINGTON LONGMEADOW LYNN MARLBOROUGH MASHPEE MATTAPAN MEDFORD MILFORD NEEDHAM NEW BEDFORD NEWBURYPORT NEWTON NORTH ATTLEBOROUGH NORTH DARTMOUTH NORTHAMPTON NORWELL ORLEANS PEABODY PLAINVILLE QUINCY REVERE ROSLINDALE ROWLEY SALEM SALISBURY SANDWICH SAUGUS SHARON SOMERVILLE SOUTH EASTON SOUTH YARMOUTH SOUTHWICK SPRINGFIELD STONEHAM SWANSEA TAUNTON WALTHAM WAREHAM WATERTOWN WELLESLEY WEST SPRINGFIELD WESTBOROUGH WESTFIELD WESTWOOD WILMINGTON WOLLASTON WORCESTER WRENTHAM       |
 <!--end: status pages-->
 
 ## Site Information
