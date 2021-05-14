@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-05-13 09:06 PM
+**Last Updated**: 2021-05-13 10:33 PM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AGAWAM ALLSTON AMHERST ARLINGTON ATTLEBORO BELCHERTOWN BELMONT BEVERLY BOSTON BOURNE BRAINTREE BRIGHTON BROCKTON BROOKLINE CAMBRIDGE CARVER CHELSEA CHESTNUT HILL CHICOPEE COHASSET CONCORD DANVERS DEDHAM DORCHESTER FALL RIVER FOXBOROUGH FRAMINGHAM GEORGETOWN GLOUCESTER HADLEY HOLLISTON HOLYOKE HYANNIS LANESBOROUGH LAWRENCE LEXINGTON LONGMEADOW LYNN MASHPEE MATTAPAN MEDFORD METHUEN MILLIS NEEDHAM NEW BEDFORD NEWBURYPORT NEWTON NORTH ATTLEBOROUGH NORTH DARTMOUTH NORTHAMPTON ORLEANS PEABODY PLAINVILLE QUINCY ROSLINDALE ROWLEY SALEM SALISBURY SANDWICH SAUGUS SEEKONK SHARON SOMERVILLE SOUTH EASTON SOUTH WEYMOUTH SOUTH YARMOUTH SOUTHWICK SPRINGFIELD SWANSEA TAUNTON WALTHAM WAREHAM WELLESLEY WEST SPRINGFIELD WESTFIELD WESTWOOD WINCHESTER WOLLASTON WORCESTER WRENTHAM       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :no_entry: Unavailable    |
 <!--end: status pages-->
 
 ## Site Information
