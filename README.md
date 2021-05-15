@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-05-15 06:52 PM
+**Last Updated**: 2021-05-15 07:21 PM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ACTON AGAWAM ALLSTON AMHERST ARLINGTON BOSTON BRIGHTON BROOKLINE CAMBRIDGE CHATHAM CHESTNUT HILL CHICOPEE CONCORD DANVERS DORCHESTER DRACUT FOXBOROUGH GLOUCESTER GRANBY GREAT BARRINGTON HADLEY HAVERHILL HYANNIS KINGSTON LAWRENCE LONGMEADOW LUNENBURG LYNN MASHPEE MEDFORD METHUEN MIDDLETON NEEDHAM NEWBURYPORT NEWTON NORTH ATTLEBOROUGH NORTH DARTMOUTH NORTHAMPTON ORLEANS PEABODY PROVINCETOWN QUINCY ROWLEY SALEM SALISBURY SAUGUS SEEKONK SOMERVILLE SOUTH HAMILTON SOUTHWICK SPRINGFIELD WALTHAM WAREHAM WELLESLEY WESTWOOD WOLLASTON       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ACTON ALLSTON AMHERST ARLINGTON ATHOL BOSTON BRIGHTON BROOKLINE CAMBRIDGE CHESTNUT HILL CHICOPEE DANVERS DEDHAM DORCHESTER DRACUT FOXBOROUGH GLOUCESTER GRANBY GREAT BARRINGTON HADLEY HARWICHPORT HAVERHILL HYANNIS LYNN MARBLEHEAD MARLBOROUGH MASHPEE MIDDLETON NEEDHAM NEW BEDFORD NEWBURYPORT NEWTON NORTH ANDOVER NORTH DARTMOUTH NORTHAMPTON ORLEANS PEABODY PLAINVILLE PROVINCETOWN QUINCY ROSLINDALE ROWLEY SALEM SALISBURY SAUGUS SOMERVILLE SOUTH HAMILTON SOUTHWICK SPRINGFIELD WALTHAM WAREHAM WEBSTER WELLESLEY WESTWOOD WINTHROP WOLLASTON       |
 <!--end: status pages-->
 
 ## Site Information
