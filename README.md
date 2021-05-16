@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-05-16 07:21 PM
+**Last Updated**: 2021-05-16 07:49 PM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ACTON AMHERST ATHOL BOSTON BRIGHTON BROOKLINE CAMBRIDGE CHATHAM CHESTNUT HILL CHICOPEE DANVERS DORCHESTER DRACUT GEORGETOWN GLOUCESTER GRANBY GREAT BARRINGTON HADLEY HARWICH HARWICHPORT HAVERHILL HOLBROOK LAWRENCE LYNN METHUEN MIDDLETON NEEDHAM NEWBURYPORT NEWTON NORTH DARTMOUTH NORTHAMPTON ORLEANS PROVINCETOWN QUINCY SALEM SALISBURY SOMERVILLE SOUTH HAMILTON SOUTHWICK WINTHROP       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ACTON AMHERST ATHOL BEVERLY BOSTON BRIGHTON BROOKLINE CAMBRIDGE CHATHAM CHESTNUT HILL CHICOPEE DANVERS DORCHESTER DRACUT FALMOUTH GEORGETOWN GLOUCESTER GRANBY GREAT BARRINGTON HADLEY HARWICH HARWICHPORT HAVERHILL HYANNIS LAWRENCE LYNN MASHPEE METHUEN MIDDLETON MILLIS NEEDHAM NEWBURYPORT NEWTON NORTH BILLERICA NORTHAMPTON ORLEANS PROVINCETOWN SALEM SALISBURY SOMERVILLE SOUTH HAMILTON SPRINGFIELD WALTHAM WAREHAM WELLESLEY WEST NEWTON       |
 <!--end: status pages-->
 
 ## Site Information
