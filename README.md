@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-05-16 03:51 PM
+**Last Updated**: 2021-05-16 04:22 PM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ACTON ALLSTON AMHERST ATHOL ATTLEBORO BOSTON BRAINTREE BRIGHTON BROOKLINE CAMBRIDGE CHATHAM CHELSEA CHESTNUT HILL CHICOPEE DANVERS DORCHESTER DRACUT GLOUCESTER GRANBY GREAT BARRINGTON HADLEY HARWICH HARWICHPORT HAVERHILL HINGHAM LAWRENCE LONGMEADOW LUNENBURG LYNN METHUEN MIDDLETON NEEDHAM NEWBURYPORT NEWTON NORTH ANDOVER NORTHAMPTON ORLEANS PEABODY PROVINCETOWN REVERE ROSLINDALE SALEM SALISBURY SANDWICH SOMERVILLE SOUTH HAMILTON SOUTHWICK SPRINGFIELD STONEHAM WALTHAM WAREHAM WELLESLEY WINTHROP       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ACTON AMHERST BOSTON BRIGHTON BROOKLINE CAMBRIDGE CHATHAM CHESTNUT HILL CHICOPEE DORCHESTER DRACUT FOXBOROUGH GEORGETOWN GLOUCESTER GRANBY GREAT BARRINGTON HADLEY HARWICH HARWICHPORT HAVERHILL LAWRENCE LYNN MARBLEHEAD METHUEN MIDDLETON NEEDHAM NEW BEDFORD NEWBURYPORT NEWTON NORTHAMPTON ORLEANS PEABODY PROVINCETOWN QUINCY ROSLINDALE SALEM SALISBURY SANDWICH SOMERVILLE SOUTH HAMILTON SOUTHWICK SPRINGFIELD SWANSEA WALTHAM WAREHAM WELLESLEY WINCHENDON WINTHROP       |
 <!--end: status pages-->
 
 ## Site Information
