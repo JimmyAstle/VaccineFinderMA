@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-05-17 03:34 PM
+**Last Updated**: 2021-05-17 03:50 PM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available AMHERST BOSTON BROOKLINE CAMBRIDGE CHATHAM DORCHESTER GREAT BARRINGTON HARWICH HARWICHPORT MIDDLETON ORLEANS PROVINCETOWN SALEM SALISBURY SANDWICH SOUTH HAMILTON WEBSTER WESTFORD WOLLASTON       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ACTON BOSTON BRAINTREE BRIGHTON CAMBRIDGE CHATHAM DRACUT GREAT BARRINGTON HARWICH HARWICHPORT HYANNIS LAWRENCE MIDDLETON NEWBURYPORT ORLEANS PROVINCETOWN SALISBURY SANDWICH SOUTH HAMILTON WINTHROP       |
 <!--end: status pages-->
 
 ## Site Information
