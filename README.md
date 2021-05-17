@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-05-17 05:46 PM
+**Last Updated**: 2021-05-17 06:25 PM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available BOSTON CAMBRIDGE CHATHAM GREAT BARRINGTON NEW BEDFORD NORTHAMPTON ORLEANS PROVINCETOWN SALISBURY SANDWICH SOUTH HAMILTON WILBRAHAM       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available BOSTON CHATHAM DORCHESTER GREAT BARRINGTON METHUEN NORTH ATTLEBOROUGH NORTHAMPTON ORLEANS PROVINCETOWN SALISBURY SANDWICH SOUTH HAMILTON       |
 <!--end: status pages-->
 
 ## Site Information
