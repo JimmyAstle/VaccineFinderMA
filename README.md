@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-05-17 10:53 AM
+**Last Updated**: 2021-05-17 11:24 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ACTON AMHERST ATHOL BOSTON BRIGHTON BROOKLINE CAMBRIDGE CHATHAM CHESTNUT HILL CHICOPEE CONCORD DORCHESTER DRACUT GLOUCESTER GRANBY GREAT BARRINGTON HADLEY HARWICH HARWICHPORT HAVERHILL HINGHAM KINGSTON LANESBOROUGH LAWRENCE LYNN METHUEN MIDDLETON NEEDHAM NEWBURYPORT NEWTON NORTH ANDOVER NORTHAMPTON ORLEANS OXFORD PEABODY PLYMOUTH PROVINCETOWN ROWLEY SALEM SALISBURY SANDWICH SAUGUS SOMERVILLE SOUTH HAMILTON SPRINGFIELD WEST SPRINGFIELD WILBRAHAM WINCHESTER WINTHROP WOLLASTON       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ACTON ALLSTON AMHERST BELCHERTOWN BELMONT BOSTON BOURNE BRAINTREE BRIGHTON BROOKLINE CAMBRIDGE CANTON CARVER CHATHAM CHELSEA CHESTNUT HILL CHICOPEE DORCHESTER DRACUT FALMOUTH GLOUCESTER GRANBY GREAT BARRINGTON HADLEY HARWICH HARWICHPORT HAVERHILL HYANNIS LANESBOROUGH LAWRENCE LYNN MALDEN METHUEN MIDDLETON NEEDHAM NEWBURYPORT NEWTON NORTHAMPTON ORLEANS PEABODY PROVINCETOWN ROSLINDALE ROWLEY SALEM SALISBURY SANDWICH SOUTH HAMILTON SPRINGFIELD SWANSEA WALTHAM WAREHAM WINCHESTER WINTHROP       |
 <!--end: status pages-->
 
 ## Site Information
