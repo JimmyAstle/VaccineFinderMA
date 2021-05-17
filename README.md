@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-05-17 12:00 AM
+**Last Updated**: 2021-05-17 12:40 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ACTON AMHERST BEVERLY BOSTON BRIGHTON BROOKLINE CAMBRIDGE CHATHAM CHESTNUT HILL CHICOPEE DANVERS DORCHESTER DRACUT GLOUCESTER GRANBY GREAT BARRINGTON HADLEY HARWICH HARWICHPORT HOLBROOK LAWRENCE LYNN MIDDLETON NEEDHAM NEWBURYPORT NEWTON NORTHAMPTON ORLEANS PROVINCETOWN QUINCY SALEM SALISBURY SOMERVILLE SOUTH HAMILTON WELLESLEY       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ACTON AMHERST BOSTON BRIGHTON BROOKLINE CAMBRIDGE CHATHAM CHESTNUT HILL CHICOPEE COHASSET DORCHESTER DRACUT FALMOUTH GLOUCESTER GRANBY GREAT BARRINGTON HADLEY HARWICH HARWICHPORT HAVERHILL LAWRENCE LYNN MASHPEE METHUEN MIDDLEBOROUGH MIDDLETON NEEDHAM NEWBURYPORT NEWTON NORTH ANDOVER NORTH BILLERICA NORTHAMPTON ORLEANS PEABODY PROVINCETOWN QUINCY SALEM SALISBURY SANDWICH SOUTH HAMILTON SOUTHWICK WAREHAM WELLESLEY       |
 <!--end: status pages-->
 
 ## Site Information
