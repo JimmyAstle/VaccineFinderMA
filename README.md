@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-05-17 10:44 AM
+**Last Updated**: 2021-05-17 10:53 AM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ACTON ALLSTON AMHERST ATHOL BELCHERTOWN BELMONT BEVERLY BOSTON BRIGHTON BROOKLINE CAMBRIDGE CARVER CHATHAM CHELSEA CHESTNUT HILL CHICOPEE DEDHAM DORCHESTER DRACUT FALMOUTH GLOUCESTER GRANBY GREAT BARRINGTON HADLEY HARWICH HARWICHPORT HAVERHILL HOLBROOK HOLYOKE HYANNIS LANESBOROUGH LAWRENCE LOWELL LUNENBURG LYNN METHUEN MIDDLETON NEW BEDFORD NEWBURYPORT NEWTON NORTH DARTMOUTH NORTH EASTON NORTHAMPTON ORLEANS PEABODY PROVINCETOWN ROWLEY SALEM SALISBURY SANDWICH SAUGUS SOMERVILLE SOUTH HAMILTON SPRINGFIELD SWANSEA WAREHAM WEST NEWTON WEST SPRINGFIELD WILBRAHAM WILMINGTON WINCHENDON WINCHESTER WINTHROP WOLLASTON       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ACTON AMHERST ATHOL BOSTON BRIGHTON BROOKLINE CAMBRIDGE CHATHAM CHESTNUT HILL CHICOPEE CONCORD DORCHESTER DRACUT GLOUCESTER GRANBY GREAT BARRINGTON HADLEY HARWICH HARWICHPORT HAVERHILL HINGHAM KINGSTON LANESBOROUGH LAWRENCE LYNN METHUEN MIDDLETON NEEDHAM NEWBURYPORT NEWTON NORTH ANDOVER NORTHAMPTON ORLEANS OXFORD PEABODY PLYMOUTH PROVINCETOWN ROWLEY SALEM SALISBURY SANDWICH SAUGUS SOMERVILLE SOUTH HAMILTON SPRINGFIELD WEST SPRINGFIELD WILBRAHAM WINCHESTER WINTHROP WOLLASTON       |
 <!--end: status pages-->
 
 ## Site Information
