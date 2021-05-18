@@ -6,11 +6,11 @@ This repository checks several CVS locations in the Massachusetts Region for ava
 Follow <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> **[Twitter bot](https://twitter.com/FinderMass)** <img alt="" src="https://favicons.githubusercontent.com/www.twitter.com" height="13"> to get notified of new appointment availability!
 
 <!--start: status pages-->
-**Last Updated**: 2021-05-18 04:22 PM
+**Last Updated**: 2021-05-18 04:44 PM
 
 | Site                | Status         |
 | ------------------- | -------------- |
-| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ACTON AMHERST ARLINGTON ATHOL BEVERLY BOSTON BROCKTON BURLINGTON CAMBRIDGE CARVER CHATHAM CHICOPEE DORCHESTER DRACUT FALMOUTH HARWICH HARWICHPORT HAVERHILL HYANNIS LAWRENCE LEOMINSTER LUNENBURG LYNN MALDEN MARBLEHEAD METHUEN MIDDLEBOROUGH MIDDLETON NEW BEDFORD NEWBURYPORT NORTH ANDOVER OXFORD PEABODY PLYMOUTH PROVINCETOWN QUINCY SALEM SALISBURY SANDWICH SOUTH HAMILTON SPRINGFIELD STONEHAM WALTHAM WAREHAM WEBSTER WILBRAHAM WILMINGTON WINCHENDON WINTHROP WOBURN WOLLASTON WORCESTER       |
+| <img alt="" src="https://favicons.githubusercontent.com/www.cvs.com" height="13"> [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)               | :white_check_mark: Available ACTON AMHERST ATHOL BOSTON BRAINTREE BRIGHTON BROCKTON CAMBRIDGE CARVER CHATHAM CHICOPEE DORCHESTER DRACUT FALMOUTH HARWICH HARWICHPORT HAVERHILL HYANNIS LAWRENCE LEOMINSTER LUNENBURG LYNN MARBLEHEAD MEDFORD METHUEN MIDDLEBOROUGH MIDDLETON NEW BEDFORD NEWBURYPORT NORTH ANDOVER OXFORD PEABODY PLYMOUTH PROVINCETOWN QUINCY SALEM SALISBURY SANDWICH SOUTH HAMILTON SPRINGFIELD STONEHAM WALTHAM WAREHAM WEBSTER WESTFIELD WILBRAHAM WILMINGTON WINCHENDON WINTHROP WOBURN WOLLASTON WORCESTER       |
 <!--end: status pages-->
 
 ## Site Information
