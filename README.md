@@ -1,7 +1,7 @@
 [![mass-region-vaccine-check](https://github.com/JimmyAstle/VaccineFinderMA/actions/workflows/sites-check.yml/badge.svg)](https://github.com/JimmyAstle/VaccineFinderMA/actions/workflows/sites-check.yml)
 # Massachusetts Region Covid 19 Vaccine Checker
 
-** This repo is now no longer checking for vaccine appointments **
+**This repo is now no longer checking for vaccine appointments**
 
 This repository checks several CVS locations in the Massachusetts Region for availability of Covid 19 vaccination appointments.
 
